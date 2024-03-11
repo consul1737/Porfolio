@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Raleway:wght@500&display=swap');
+
+body{
+font-family: "Raleway", sans-serif;
+}
